@@ -44,5 +44,11 @@ model-viewer {
 }
 
 footer {
- 
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  font-style: italic;
+  line-height: 1.5em;
 }
